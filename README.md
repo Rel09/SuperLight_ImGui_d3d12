@@ -2,4 +2,9 @@
 
 Cleaned up Everything. Start building your DLL Super quickly
 
+
+
+
+PluginManager.cpp
+
 ![Alt Text](https://i.imgur.com/trYhWne.png)
