@@ -1,5 +1,3 @@
-# minimal-d3d12-imgui-hook
+# SuperLight_ImGui_d3d12
 
-Similar to https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook but cleaned up a bit and using [vcpkg](https://github.com/microsoft/vcpkg#quick-start-windows) for dependency management.
-
-Credits to scizzydo for resize logic.
+Cleaned up Everything. Start building your DLL Super quickly
